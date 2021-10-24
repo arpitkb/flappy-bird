@@ -57,8 +57,8 @@ body{
     margin-top: 60px;
     color: black;
     cursor: pointer;
-    padding: 0.1rem .5rem;
-    border-radius: 5rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4rem;
     border: 0;
 }
 
@@ -73,13 +73,13 @@ body{
 #block{
     width: 46px;
     height: 100vh;
-    background-color: rgb(4, 82, 17);
+    background-color: rgb(5, 82, 17);
     position: relative;
 }
 
 #hole{
     width: 47px;
-    height: 193px;
+    height: 194px;
     background: rgb(85, 199, 85);
     position: relative;
     top: -500px;
